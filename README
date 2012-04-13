@@ -1,8 +1,9 @@
-A SIMPLE PASSWORD GENERATOR BASED ON php 'rand'
+randpass - Simple Password Generator
 
-a 3 file web app wich generates passwords of as big length as you want.
-simple work hope you will like it.
-use it wise:)
-
-Peace and love,
-Bannik
+Languages:
+    XHTML
+    CSS
+    JavaScript
+Developers:
+    Nikitas 'bannik' Christodoulakis <https://github.com/bannik>
+    Mario 'mariosal' Saldinger <https://github.com/mariosal/>

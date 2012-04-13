@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Droid Sans';
+}
+    form {
+        width: 60%;
+        margin: 1% 20% 3%;
+    }
+        form input, form output {
+            width: 30%;
+            font-size: 18pt;
+        }
+        form input {
+            border: 0;
+            text-align: center;
+        }
+        form output {
+            width: 70%;
+            margin-left: 4%;
+            text-align: center;
+        }
+    footer {
+        text-align: center;
+    }
+        footer a {
+            color: #b0c4de;
+            text-decoration: none;
+        }
